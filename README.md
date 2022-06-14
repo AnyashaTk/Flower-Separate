@@ -11,7 +11,6 @@ You can see training process [here](https://colab.research.google.com/drive/1O_N
 Some work example:
 
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AnyashaTk/Flower-Separate/blob/main/assets/model_example1.png)
-![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AnyashaTk/Flower-Separate/blob/main/assets/model_example2.png)
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AnyashaTk/Flower-Separate/blob/main/assets/model_example3.png)
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AnyashaTk/Flower-Separate/blob/main/assets/model_example4.png)
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/AnyashaTk/Flower-Separate/blob/main/assets/model_example5.png)
